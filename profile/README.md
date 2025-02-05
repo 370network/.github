@@ -14,6 +14,8 @@
 * [GarKit](https://github.com/370network/reGIANTS-GarKit) - Implementation of an archiver/unarchiver for the GIANTS Engine .gar/.dlc archive file format
 * [i3DKit](https://github.com/370network/reGIANTS-i3DKit) 
 * [reGIANTS-Engine](https://github.com/370network/reGIANTS-Engine)
+* [reGIANTS-Editor](https://github.com/370network/reGIANTS-Editor)
+* [reGIANTS-Debugger](https://github.com/370network/reGIANTS-Debugger)
 
 [View all reGIANTS related repos](https://github.com/search?q=topic%3Aregiants+org%3A370network+fork%3Atrue&type=repositories)
    
