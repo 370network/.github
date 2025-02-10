@@ -11,8 +11,9 @@
 [View all other PAX S920/ProlinOS related repos](https://github.com/search?q=topic%3Apaxdevs+org%3A370network+fork%3Atrue&type=repositories)
 
 ## reGIANTS
-* [GarKit](https://github.com/370network/reGIANTS-GarKit) - Implementation of an archiver/unarchiver for the GIANTS Engine .gar/.dlc archive file format
-* [i3DKit](https://github.com/370network/reGIANTS-i3DKit) 
+* [GarKit](https://github.com/370network/reGIANTS-GarKit) - Conformant implementation of an archiver/unarchiver for the GIANTS Engine .gar/.dlc archive file format
+* [i3DKit](https://github.com/370network/reGIANTS-i3DKit)
+* [reGIANTS-Bootstrapper](https://github.com/370network/reGIANTS-Bootstrapper) - Unofficial DLC for bootstrapping scripts on LS2011 and SRS2012 **[DEPRECATED]**
 * [reGIANTS-Engine](https://github.com/370network/reGIANTS-Engine)
 * [reGIANTS-Editor](https://github.com/370network/reGIANTS-Editor)
 * [reGIANTS-Debugger](https://github.com/370network/reGIANTS-Debugger)
