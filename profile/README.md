@@ -18,6 +18,7 @@
 * [reGIANTS-Editor](https://github.com/370network/reGIANTS-Editor)
 * [reGIANTS-Debugger](https://github.com/370network/reGIANTS-Debugger)
 * [guiWidescreenFix-DLC](https://github.com/370network/guiWidescreenFix-DLC) - The DLC version of the guiWidescreenFix for DC, LS2011 and SRS2012
+* [LS2011-things](https://github.com/370network/LS2011-things) - The LS2011 version of Morc's "famous" repos
 
 [View all reGIANTS related repos](https://github.com/search?q=topic%3Aregiants+org%3A370network+fork%3Atrue&type=repositories)
    
