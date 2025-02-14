@@ -5,7 +5,7 @@
 ## PAX S920/ProlinOS
 * [pax-s920](https://github.com/370network/pax-s920) - build tools, lib headers and more
 * [bobby-carrot-pax](https://github.com/370network/bobby-carrot-pax) - port of the Bobby Carrot game clone
-* [MilkyTrackerPAX](https://github.com/370network/MilkyTrackerPAX) - soon to be deprecated port of your favorite excel music player for the S920 terminal
+* [MilkyTrackerPAX](https://github.com/370network/MilkyTrackerPAX) - port of your favorite excel music player for the S920 terminal **[DEPRECATED]**
 * [paxDOOM](https://github.com/370network/paxDOOM) - original DOOM port for the S920 terminal **[DEPRECATED]**
 
 [View all other PAX S920/ProlinOS related repos](https://github.com/search?q=topic%3Apaxdevs+org%3A370network+fork%3Atrue&type=repositories)
