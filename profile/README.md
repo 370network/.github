@@ -23,7 +23,7 @@
 [View all reGIANTS related repos](https://github.com/search?q=topic%3Aregiants+org%3A370network+fork%3Atrue&type=repositories)
    
 ## Others
-* [skylink-xmltv](https://github.com/370network/skylink-xmltv) - EPG for Skylink CZ/SK in the XMLTV format
+* [skylink-xmltv](https://github.com/370network/skylink-xmltv) - EPG for Skylink CZ/SK in the XMLTV format | [Online Skylink CZ/SK EPG Viewer](http://370network.github.io/skylink-xmltv/)
 * [MilkyTrackerLegacy](https://github.com/370network/MilkyTrackerLegacy) - "monorepo" with support for various platforms
 
 [View all SailfishOS OnePlus 7T Pro related repos](https://github.com/search?q=topic%3Asailfishos-hotdog+org%3A370network+fork%3Atrue&type=repositories)
