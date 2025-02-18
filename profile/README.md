@@ -13,7 +13,7 @@
 ## reGIANTS & GIANTS Engine game-related
 * [GarKit](https://github.com/370network/reGIANTS-GarKit) - Conformant implementation of an archiver/unarchiver for the GIANTS Engine .gar/.dlc archive file format
 * [i3DKit](https://github.com/370network/reGIANTS-i3DKit)
-* [reGIANTS-docs](https://370network.github.io/reGIANTS-docs/) - Reconstruction of GIANTS GDN and other relevant historical documentation
+* [reGIANTS-docs](https://370network.github.io/reGIANTS-docs/) - Reconstruction of GIANTS GDN and other relevant historical documentation **[NOT FOR END USER USAGE]**
 * [reGIANTS-Bootstrapper](https://github.com/370network/reGIANTS-Bootstrapper) - Unofficial DLC for bootstrapping scripts on LS2011 and SRS2012 **[DEPRECATED]**
 * [reGIANTS-Engine](https://github.com/370network/reGIANTS-Engine)
 * [reGIANTS-Editor](https://github.com/370network/reGIANTS-Editor)
