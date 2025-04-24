@@ -3,7 +3,7 @@
 </picture></p>
 
 ## PAX S920/ProlinOS
-* [pax-s920](https://github.com/370network/pax-s920) - build tools, lib headers and more
+* [pax-s920](https://github.com/370network/pax-s920) - build environment with tools, library headers, ports and more
 * [bobby-carrot-pax](https://github.com/370network/bobby-carrot-pax) - port of the Bobby Carrot game clone
 * [MilkyTrackerPAX](https://github.com/370network/MilkyTrackerPAX) - port of your favorite excel music player for the S920 terminal **[DEPRECATED]**
 * [paxDOOM](https://github.com/370network/paxDOOM) - original DOOM port for the S920 terminal **[DEPRECATED]**
