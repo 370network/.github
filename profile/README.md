@@ -30,3 +30,5 @@
 * [pehapebb-sk](https://github.com/370network/pehapebb-sk) - voláky preklad pre phpBB, lebo si to volado pýtal, ale nepamatám si že do to bol.
 
 [View all SailfishOS OnePlus 7T Pro related repos](https://github.com/search?q=topic%3Asailfishos-hotdog+org%3A370network+fork%3Atrue&type=repositories)
+
+[View all OpenEZX - Motorola MING A1200 related repos](https://github.com/search?q=topic%3Aopenezx+org%3A370network+fork%3Atrue&type=repositories)
