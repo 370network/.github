@@ -24,8 +24,8 @@
 [View all reGIANTS related repos](https://github.com/search?q=topic%3Aregiants+org%3A370network+fork%3Atrue&type=repositories)
    
 ## Others
-* [skylink-xmltv](https://github.com/370network/skylink-xmltv) - EPG for Skylink CZ/SK in the XMLTV format | [Online Skylink CZ/SK EPG Viewer](http://370network.github.io/skylink-xmltv/)
-* [magio-xmltv](https://github.com/370network/magio-xmltv) - EPG for Magio TV SK in the XMLTV format | [Online Magio TV SK EPG Viewer](http://370network.github.io/magio-xmltv/)
+* [skylink-xmltv](https://github.com/370network/skylink-xmltv) - EPG for Canal+ CZ/SK *(formerly Skylink)* in the XMLTV format | [Online Canal+ CZ/SK EPG Viewer](http://370network.github.io/skylink-xmltv/)
+* [magio-xmltv](https://github.com/370network/magio-xmltv) - EPG for Telekom Magio TV SK in the XMLTV format | [Online Magio TV SK EPG Viewer](http://370network.github.io/magio-xmltv/)
 * [MilkyTrackerLegacy](https://github.com/370network/MilkyTrackerLegacy) - "monorepo" with support for various platforms
 * [pehapebb-sk](https://github.com/370network/pehapebb-sk) - voláky preklad pre phpBB, lebo si to volado pýtal, ale nepamatám si že do to bol.
 
